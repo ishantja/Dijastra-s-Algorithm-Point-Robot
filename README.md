@@ -1,10 +1,10 @@
 # Dijastra-s-Algorithm-Point-Robot
 
-# ENPM 661 Project 2
-# Implementation of Dijkstra's Algorithm to find the optimal path for a point robot in a 2D obstacle space
+ENPM 661 Project 2
+Implementation of Dijkstra's Algorithm to find the optimal path for a point robot in a 2D obstacle space
 
-# The program is a single python file that was created using pycharm in windows environment
-# The following is the dependencies list
+The program is a single python file that was created using pycharm in windows environment
+The following is the dependencies list
 
 Python 3.9
 pygame 2.1.2
